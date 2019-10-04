@@ -2,6 +2,9 @@ section {
 	width: 800px;
 	margin: 100px auto;
 }
+h1  { 
+color: pink;  
+}
 section h1,
 section p {
 	text-align: center;
